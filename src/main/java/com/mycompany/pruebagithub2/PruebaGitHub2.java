@@ -10,5 +10,6 @@ package com.mycompany.pruebagithub2;
  * @author Cesar
  */
 public class PruebaGitHub2 {
+    //prueba de commit, prueba2
     
 }
