@@ -11,5 +11,5 @@ package com.mycompany.pruebagithub2;
  */
 public class PruebaGitHub2 {
     //prueba de commit, prueba2
-    
+    //segundo cambio en el texto
 }
